@@ -1,0 +1,78 @@
+# =====================================
+# KiCad v9 - Git Ignore Configuration
+# =====================================
+
+# -----------------------
+# Backup & Autosave files
+# -----------------------
+*.bak
+*.bck
+*-bak
+*-backup
+*.tmp
+*.autosave
+
+# -----------------------
+# Lock files
+# -----------------------
+*.lck
+
+# -----------------------
+# Local user settings
+# (machine-specific files)
+# -----------------------
+*.kicad_prl
+*.kicad_pro-bak
+
+# -----------------------
+# Fabrication outputs
+# -----------------------
+*.gbr
+*.gerber
+*.drl
+*.rpt
+*.gbl
+*.gtl
+*.gbs
+*.gts
+*.gbp
+*.gbo
+*.gm1
+*.gko
+*.g2l
+*.g3l
+
+# -----------------------
+# Drill / position files
+# -----------------------
+*.pos
+
+# -----------------------
+# 3D exports
+# -----------------------
+*.step
+*.stp
+*.wrl
+
+# -----------------------
+# Netlists
+# -----------------------
+*.net
+
+# -----------------------
+# ERC / DRC reports
+# -----------------------
+*.erc
+*.drc
+
+# -----------------------
+# Python cache (plugins)
+# -----------------------
+__pycache__/
+*.pyc
+
+# -----------------------
+# OS junk files
+# -----------------------
+Thumbs.db
+.DS_Store
