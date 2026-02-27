@@ -76,3 +76,16 @@ __pycache__/
 # -----------------------
 Thumbs.db
 .DS_Store
+
+
+# KiCad autosave
+_autosave-*
+#auto_saved_files#
+fp-info-cache
+
+# KiCad backups
+*-backups/
+Project3-backups/
+
+# Zip backups
+*.zip
